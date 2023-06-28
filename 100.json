@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "649bf646c09c6ff708b6048b",
+    "index": 0,
+    "guid": "81bfe135-5655-4e07-adaa-dccd7dab918e",
+    "isActive": true,
+    "balance": "$1,243.28",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Bender Ellison",
+    "gender": "male",
+    "company": "COFINE",
+    "email": "benderellison@cofine.com",
+    "phone": "+1 (879) 415-3447",
+    "address": "117 Woodside Avenue, Johnsonburg, Rhode Island, 2440",
+    "about": "Ad duis ea et reprehenderit eu velit velit occaecat ipsum incididunt. Labore cillum proident officia sunt id exercitation est aliquip esse sunt commodo ullamco non. Non anim minim aliquip officia exercitation consectetur mollit non officia. Deserunt Lorem nulla exercitation labore occaecat et fugiat ex irure ea fugiat officia aliquip ea. Excepteur cillum aliqua nostrud officia consequat adipisicing dolor. Reprehenderit laboris culpa aliquip aliqua consectetur veniam elit. Incididunt veniam excepteur excepteur exercitation laborum elit cillum irure voluptate commodo consectetur aliquip.\r\n",
+    "registered": "2018-02-26T05:24:02 -09:00",
+    "latitude": -42.145269,
+    "longitude": 144.528229,
+    "tags": [
+      "qui",
+      "amet",
+      "ipsum",
+      "cupidatat",
+      "voluptate",
+      "do",
+      "irure"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Madge Higgins"
+      },
+      {
+        "id": 1,
+        "name": "Glenna Campos"
+      },
+      {
+        "id": 2,
+        "name": "Conley Rodriguez"
+      }
+    ],
+    "greeting": "Hello, Bender Ellison! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "649bf646dff05313bb94c195",
+    "index": 1,
+    "guid": "465f0e16-a5b5-49fc-a643-e9a370db5278",
+    "isActive": true,
+    "balance": "$1,418.77",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "blue",
+    "name": "Stella Hewitt",
+    "gender": "female",
+    "company": "MANGLO",
+    "email": "stellahewitt@manglo.com",
+    "phone": "+1 (962) 409-2226",
+    "address": "728 Kaufman Place, Fidelis, Tennessee, 5871",
+    "about": "Ipsum deserunt laboris officia ex ipsum Lorem nisi fugiat. Aliquip proident do tempor est sunt cillum pariatur anim nisi ullamco adipisicing. Id ex eu ipsum amet nisi. Esse aliqua ut exercitation eiusmod adipisicing excepteur eu aliqua in veniam eu mollit esse laborum.\r\n",
+    "registered": "2016-07-04T11:16:12 -09:00",
+    "latitude": -7.750797,
+    "longitude": 138.214696,
+    "tags": [
+      "amet",
+      "aliquip",
+      "occaecat",
+      "et",
+      "reprehenderit",
+      "occaecat",
+      "in"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Blake Larson"
+      },
+      {
+        "id": 1,
+        "name": "Michelle Ramirez"
+      },
+      {
+        "id": 2,
+        "name": "Jensen Hardin"
+      }
+    ],
+    "greeting": "Hello, Stella Hewitt! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+]
